@@ -1,0 +1,12 @@
+demarmelsi	0100
+dunklei	0100
+gaianii	0010
+gaudiimontanum	1000
+laterale	0110
+nataliae	0100
+occultum	1101
+ovigerum	1100
+risi	1101
+rosseri	1001
+santainense	1000
+tamaense	0100
